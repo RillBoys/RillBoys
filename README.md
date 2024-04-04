@@ -7,8 +7,6 @@
 
 - 🍫 I really enjoy learning ****JAVASCRIPT****
 
-- 🌱 I'm currently learning **Discord.js**
-
 - 🎮 I LOVE PLAYING GAMES **Minecraft, Bloodstrike, Free Fire**
 
 <h3 align="left">Languages:</h3>
