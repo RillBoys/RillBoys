@@ -1,8 +1,9 @@
+<p align="center">
+<img src="https://images-ext-2.discordapp.net/external/CxxtcDRzh0SzoXrNRRPH3Eiu8wrFlKCdiCkC8hIY73E/https/cdn.weeb.sh/images/HJAx4ktD-.gif" alt="anime-custom-image"/>
 </p>
 <h1 align="center">Hello, I'm Rillboys</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="anime-custom-image" width="220" src="https://tenor.com/bkJZS.gif">
-<!-- <img align="right" alt="anime-custom-image" width="220" src="https://tenor.com/bkJZS.gif"> -->
 
 
 - 🍫 I really enjoy learning ****JAVASCRIPT****
