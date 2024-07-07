@@ -1,5 +1,3 @@
-# Hi there, I'm Rillboy! 👋
-
 ![GitHub Banner](https://i.postimg.cc/v83HjzNx/20e92227c9b739044e377b3567cfdac0.gif)
 
 Welcome to my GitHub profile! I'm just an ordinary person who wants to learn coding. Below you'll find more about me.
