@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## 📈 GitHub Stats
+## 📊 Most Used Languages
 
-![RillBoys GitHub Stats](https://github-readme-stats.vercel.app/api?username=RillBoys&usril_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RillBoys&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
