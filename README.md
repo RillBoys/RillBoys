@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RillBoys&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RillBoys&langs_count=8&layout=compact&theme=radical&card_width=500)
 
 ## 📫 Connect with Me
 
