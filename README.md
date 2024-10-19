@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=termux)
 
 ## 📊 Most Used Languages
 
