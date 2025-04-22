@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 </a> -->
 
 <a href="https://discordapp.com/users/732699880018935959/">
-  <img src="https://fresh-regine-rillcode-0b99e7aa.koyeb.app/widget/732699880018935959.png" />
+  <img src="https://fresh-regine-rillcode-0b99e7aa.koyeb.app/widget-auto/732699880018935959.png" />
 </a>
 <p>
   <a href="https://discordapp.com/users/732699880018935959/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
