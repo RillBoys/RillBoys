@@ -9,14 +9,18 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 
 ## 🛠️ Technologies & Tools
 
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=termux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Termux](https://img.shields.io/badge/-_>̲Termux-black?style=flat-square)
 
 ## 📊 Most Used Languages
 
@@ -29,7 +33,7 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 </a> -->
 
 <a href="https://discordapp.com/users/732699880018935959/">
-  <img src="https://fresh-regine-rillcode-0b99e7aa.koyeb.app/widget/732699880018935959.png?t=1" />
+  <img src="https://fresh-regine-rillcode-0b99e7aa.koyeb.app/widget/732699880018935959.png?t=1" width="500" />
 </a>
 <p>
   <a href="https://discordapp.com/users/732699880018935959/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
